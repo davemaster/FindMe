@@ -1,0 +1,1 @@
+This folder contains code of FindMe System: Raspberry Pi B+ Node JS Code, ESP8266-01 code for arduino IDE, PIC16F628A CCS PIC code for rx and tx.
